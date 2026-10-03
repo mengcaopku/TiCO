@@ -1,0 +1,4 @@
+datasets:
+  - json_path: data/tico_sft.json
+    images_folder: 
+    sampling_strategy: "all"
